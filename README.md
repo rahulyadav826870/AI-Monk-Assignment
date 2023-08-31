@@ -22,7 +22,7 @@ List out the key features of your application.
 Detailed instructions on how to install, configure, and get the project running.
 
 ```bash
-npm install AI-Monk-Assignment
+npm install 
 cd AI-Monk-Assignment
 npm run dev
 ```
